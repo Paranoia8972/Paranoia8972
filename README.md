@@ -13,7 +13,7 @@ Lol there's nothing
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Java 
 - 💬 &nbsp;Ask me about anything related to my Projects
-- 👨‍💻 &nbsp;Read more about my projects at [#Projects](https://github.com/Paranoia8972/Paranoia8972/blob/main/README.md#%EF%B8%8F-projects--all-work-in-progress-)
+- 👨‍💻 &nbsp;Read more about my projects at [#Projects](https://github.com/Paranoia8972/Paranoia8972/blob/main/README.md#%EF%B8%8F-projects--all-work-in-progress-) <-- this only works in the README.md. You need to tap it twice
 - 📚 &nbsp;I’m into 3D printing, Raspberry π 
 - 🧑🏼‍🎓 &nbsp;I’m currently studying IT in High School
 - 📍 &nbsp;I’m located in [Kiel, Germany](https://www.google.com/maps?q=kiel)
