@@ -27,4 +27,16 @@ Lol
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 
-## 🛠️ Projects
+## 🛠️ Projects -All work in Progress-
+
+### 💻☠️Malduino based BadUSB 
+A OpenSource BadUSB based on the Malduino software with my a PCB concept design by myself.
+#### Credits
+[@Seytonic](https://github.com/Seytonic/Duckduino-microSD)
+
+### 🕹️Raspberry Pi zero Handheld
+I really like the small portable handhelds based on RPis. 
+You might have a look at the cool uConsole from [Clockwork Pi](https://www.clockworkpi.com/)
+Now I decided to make my own. 
+It's based on the PIGRRL zero with all it's parts an some changes.
+And it uses a BB Q20 Blackberry Key 2 Keyboard by Solderparty
