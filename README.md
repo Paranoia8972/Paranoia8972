@@ -6,7 +6,7 @@ This is the place where I tear down stuff and maybe put it not back together aga
 
 ## 🧑🏼‍💻 About me
 
-Lol
+Lol there's nothing 
 
 ### 📌 Facts
 
