@@ -4,7 +4,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%"></a>
 This is the place where I tear down stuff and maybe put it not back together again :rofl: and I also create cool Projects 
 
-- 🔭 &nbsp;I’m currently working on something cool :wink: more further down
+- 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Java 
 - 💬 &nbsp;Ask me about anything related to my Projects
 - 👨‍💻 &nbsp;Read more about my projects at [coming soon](https://github.com/Paranoi8972/Paranoi8972/)
