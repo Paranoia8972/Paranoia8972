@@ -44,4 +44,4 @@ I really like the small portable handhelds based on RPis.
 You might have a look at the cool uConsole from [Clockwork Pi](https://www.clockworkpi.com/)
 Now I decided to make my own. 
 It's based on the PIGRRL zero with all it's parts an some changes.
-And it uses a BB Q20 Blackberry Key 2 Keyboard by Solderparty
+And it uses a BB Q20 Blackberry Key 2 Keyboard by [Solderparty](https://www.solder.party/docs/bbq20kbd/)
