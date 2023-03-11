@@ -22,7 +22,7 @@ Lol there's nothing
 - 📚 &nbsp;I’m into 3D printing, Raspberry π 
 - 🧑🏼‍🎓 &nbsp;I’m currently studying IT in High School
 - 📍 &nbsp;I’m located in [Kiel, Germany](https://www.google.com/maps?q=kiel)
-- ⚡️ &nbsp;Fun fact: I :heart: :cat:s
+- ⚡️ &nbsp;Fun fact: I :heart: gardening🧑🏼‍🌾
 
 ## 🔧 Technologies & Tools
 
@@ -42,6 +42,6 @@ By [@Seytonic](https://github.com/Seytonic/Duckduino-microSD)
 ### 🕹️Raspberry Pi zero Handheld
 I really like the small portable handhelds based on RPis. 
 You might have a look at the cool uConsole from [Clockwork Pi](https://www.clockworkpi.com/)
-Now I decided to make my own. 
-It's based on the PIGRRL zero with all it's parts an some changes.
+So I decided to make my own. 
+It's based on [pdrift's](https://twitter.com/pdrift) handheld concept with some modifications to make it better and cooler. But it's quit cool rn!
 And it uses a BB Q20 Blackberry Key 2 Keyboard by [Solderparty](https://www.solder.party/docs/bbq20kbd/)
