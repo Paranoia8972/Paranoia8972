@@ -39,7 +39,7 @@ Lol there's nothing
 A OpenSource BadUSB based on the Malduino software with my a PCB concept design by myself.
 By [@Seytonic](https://github.com/Seytonic/Duckduino-microSD)
 
-### 🕹️Raspberry Pi zero Handheld
+### 🕹️Raspberry Pi Handheld
 I really like the small portable handhelds based on RPis. 
 You might have a look at the cool uConsole from [Clockwork Pi](https://www.clockworkpi.com/)
 So I decided to make my own. 
