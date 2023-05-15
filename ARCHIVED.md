@@ -42,5 +42,5 @@ By [@Seytonic](https://github.com/Seytonic/Duckduino-microSD)
 I really like the small portable handhelds based on RPis. 
 You might have a look at the cool uConsole from [Clockwork Pi](https://www.clockworkpi.com/)
 So I decided to make my own. 
-It's based on [pdrift's](https://twitter.com/pdrift) handheld concept with some modifications to make it better and cooler. But it's quit cool rn!
+It's based on [pdrift's](https://twitter.com/pdrift) handheld concept with some modifications to make it fit for my needs and make it cooler. But it's quit cool rn!
 And it uses a BB Q20 Blackberry Key 2 Keyboard by [Solderparty](https://www.solder.party/docs/bbq20kbd/)
