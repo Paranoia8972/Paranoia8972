@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://encryptopia.dev">
-    <img src="./img/icon.png" width="20%" />
+    <img src="./img/icon.png" width="23%" />
   </a>
 </p>
 <p align="center">
