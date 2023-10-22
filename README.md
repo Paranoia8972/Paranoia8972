@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://encryptopia.dev">
-    <img src="./img/icon.png" width="23%" />
+    <img src="https://encryptopia.dev/img/icon.png" width="30%" />
   </a>
 </p>
 <p align="center">
     <a href="https://encryptopia.dev/">
-        <img src="https://img.shields.io/badge/My%20Website%20-00183e" />
+        <img src="https://img.shields.io/badge/My%20Website%20-00183e"/>
     </a>
     &ensp;
     <a href="https://onthepixel.net/">
