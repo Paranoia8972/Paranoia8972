@@ -25,11 +25,11 @@ I tear down stuff and maybe put it not back together again. And I also create in
 
 ## About Me
 
-- 📚 I'm currently a high school student, eager to learn and explore the world of technology.
+- 📚 I'm a high school student, eager to learn and explore the world of technology.
 
 - 💻 My interests include Servers (Minecraft and Linux), Web Development, Raspberry Pis, Arduino, and much more. I love tinkering with tech and building cool projects.
 
-- 🌐 I enjoy creating websites and web applications. You might find some of my web development projects here.
+- 🌐 I like [Open Source](https://opensource.org) and security based web applications wich can be selfhosted. Some great examples are [SearxNG](https://github.com/searxng/searxng-docker) and [KasmVNC](https://github.com/kasmtech/KasmVNC).
 
 - 🎮 I'm a Minecraft enthusiast, and I might have some Minecraft-related projects to share.
 
