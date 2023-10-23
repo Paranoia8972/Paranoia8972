@@ -16,7 +16,7 @@
 </br>
 </br>
 
-# Hi! It's me. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
+# Hi! It's me. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 Hi! It's me. I'm a part time idiot and hobby developer.
 <br/>
 I tear down stuff and maybe put it not back together again. And I also create interesting Projects!
