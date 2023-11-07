@@ -45,7 +45,7 @@ Here are some of the projects you might find interesting on my GitHub:
 
 - [OnThePixel.net](https://onthepixel.net/): OnThePixel.net is a Minecraft server of  [@TinyBrickBoy](https://github.com/minepodcraft) and me, offering minigames like TNT Run, BedWars, KitPvP, and BuildFFA. [Join](https://discord.onthepixel.net/) us for endless fun and epic adventures!
 
-- [My Website](https://encryptopia.dev/): The website contains the projects pf mine and has a Blog post.
+- [My Website](https://encryptopia.dev/): The website contains the projects of mine and has a Blog post.
 
 </br>
 </br>
