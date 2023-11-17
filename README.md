@@ -60,7 +60,7 @@ I'm always open to collaboration and learning from others. Feel free to connect 
 
 - Reddit: &emsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp; [u/Paranoia8972](https://reddit.com/u/Paranoia8972)
 
-- Mail: &emsp;&emsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp; [contact@encryptopia.dev](mailto://contact@encryptopia.dev)
+- Mail: &emsp;&emsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp; [contact@encryptopia.dev](mailto:contact@encryptopia.dev)
 
 </br>
 </br>
