@@ -29,9 +29,9 @@ I tear down stuff and maybe put it not back together again. And I also create in
 
 - 💻 My interests include Servers (Minecraft and Linux), Web Development, Raspberry Pis, Arduino, and much more. I love tinkering with tech and building cool projects.
 
-- 🌐 I like [Open Source](https://opensource.org) and security based web applications wich can be selfhosted. Some great examples are [SearxNG](https://github.com/searxng/searxng-docker) and [KasmVNC](https://github.com/kasmtech/KasmVNC).
+- 🌐 I like [Open Source](https://opensource.org) and security based applications wich can be selfhosted. Some great examples include [SearxNG](https://github.com/searxng/searxng-docker) and [KasmVNC](https://github.com/kasmtech/KasmVNC).
 
-- 🎮 I'm a Minecraft enthusiast, and I might have some Minecraft-related projects to share.
+- 🎮 I'm a Minecraft enthusiast, and I might have some Minecraft-related projects to share. Maby even about my own Server-Network
 
 - 🛠️ I love experimenting with Raspberry Pis and Arduino boards, and I'm always looking for new hardware projects.
 
@@ -45,7 +45,7 @@ Here are some of the projects you might find interesting on my GitHub:
 
 - [OnThePixel.net](https://onthepixel.net/): OnThePixel.net is a Minecraft server of  [@TinyBrickBoy](https://github.com/minepodcraft) and me, offering minigames like TNT Run, BedWars, KitPvP, and BuildFFA. [Join](https://discord.onthepixel.net/) us for endless fun and epic adventures!
 
-- [My Website](https://encryptopia.dev/): The website contains the projects of mine and has a Blog post.
+- [My Website](https://encryptopia.dev/): The website contains the projects of mine and has a Blog.
 
 </br>
 </br>
