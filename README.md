@@ -32,8 +32,9 @@ I tear down stuff and maybe put it not back together again. And I also create in
 <h2 id="projects">Projects</h2>
 <p>Here are some of the projects you might find interesting on my GitHub:</p>
 <ul>
-<li><p><a href="https://onthepixel.net/">OnThePixel.net</a>: OnThePixel.net is a Minecraft server of  <a href="https://github.com/minepodcraft">@TinyBrickBoy</a> and me, offering minigames like TNT Run, BedWars, KitPvP, and BuildFFA. <a href="https://discord.onthepixel.net/">Join</a> us for endless fun and epic adventures!</p></li>
-<li><p><a href="https://encryptopia.dev/">My Website</a>: The website contains the projects of mine and has a Blog.</p></li>
+<li><p><a href="https://onthepixel.net/">OnThePixel.net</a>: OnThePixel.net is a Minecraft server offering a variety of minigames. <a href="https://discord.onthepixel.net/">Join</a> us!</p></li>
+<li><p><a href="https://encryptopia.dev/">My Website</a>: My website contains docs for my projects and has a responsive design.</p></li>
+<li><p><a href="https://blog.encryptopia.dev/">My Blog</a>: My Blog is build with PHP and has a commenting system and a admin panel with <a href="https://github.com/paranoia8972/blog-source-code"> much more</a>.</p></li>
 </ul>
 <p></br>
 </br></p>
