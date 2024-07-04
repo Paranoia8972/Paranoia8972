@@ -57,5 +57,5 @@ I tear down stuff and maybe put it not back together again. And I also create in
 <p></br>
 </br></p>
 <h2 id="whatshappeningrightnow">What's happening right now:</h2>
-<p><a href="https://spotify-github-profile.vercel.app/api/view?uid=31lxkybcozg34ujhjk2wnlzmhlb4&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31lxkybcozg34ujhjk2wnlzmhlb4&cover_image=true&theme=novatorem&show_offline=true&background_color=007fff&interchange=true&bar_color=00ff00&bar_color_cover=false" alt="Spotify" /></a></p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lxkybcozg34ujhjk2wnlzmhlb4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lxkybcozg34ujhjk2wnlzmhlb4&redirect=true)
 <p><a href="https://discord.com/users/982984144567017493"><img src="https://lanyard.cnrad.dev/api/982984144567017493?theme=:dark?hideDiscrim=true?idleMessage=:Probably%2520doing%2520something%2520else…?showDisplayName=true?borderRadius=:2px" alt="Discord Presence" /></a></p>
