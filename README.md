@@ -57,5 +57,5 @@ I tear down stuff and maybe put it not back together again. And I also create in
 <p></br>
 </br></p>
 <h2 id="whatshappeningrightnow">What's happening right now:</h2>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lxkybcozg34ujhjk2wnlzmhlb4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lxkybcozg34ujhjk2wnlzmhlb4&redirect=true)
+<p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lxkybcozg34ujhjk2wnlzmhlb4&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lxkybcozg34ujhjk2wnlzmhlb4&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=true&amp;background_color=121212&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=true" alt="spotify-github-profile"></a></p>
 <p><a href="https://discord.com/users/982984144567017493"><img src="https://lanyard.cnrad.dev/api/982984144567017493?theme=:dark?hideDiscrim=true?idleMessage=:Probably%2520doing%2520something%2520else…?showDisplayName=true?borderRadius=:2px" alt="Discord Presence" /></a></p>
