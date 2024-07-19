@@ -10,8 +10,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Wait for 5 minutes
+        run: sleep 5m
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "4"
           feed_list: "https://blog.encryptopia.dev/feed.xml"

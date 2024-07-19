@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@types/rss": "^0.0.32"
+  }
+}
