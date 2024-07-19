@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   repository_dispatch:
-    types: [new-post]
+    types: [vercel-deployment-success]
   workflow_dispatch:
 jobs:
   update-readme-with-blog:
@@ -10,8 +10,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Wait for 5 minutes
-        run: sleep 5m
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
