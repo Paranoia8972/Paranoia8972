@@ -40,7 +40,8 @@ I am a developer and student from germany.
 ![language](https://skillicons.dev/icons?i=bash,go,html,php,py,ts&theme=dark)
 
 ### Frameworks / Libraries / Tools
-![tools](https://skillicons.dev/icons?i=arduino,discordjs,docker,figma,github,mongodb,nextjs,nodejs,tailwind,vercel,vscode&theme=dark)
+![tools](https://skillicons.dev/icons?i=arduino,discordjs,docker,figma,github,mongodb&theme=dark)
+![tools](https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,vercel,vscode&theme=dark)
 
 # Blog posts
 
