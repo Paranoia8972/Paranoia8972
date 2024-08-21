@@ -46,5 +46,6 @@ I am a developer and student from germany.
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Deobfuscation](https://blog.encryptopia.dev/post/javascript-obfuscation)
 - [Hello, World!](https://blog.encryptopia.dev/post/hello-world)
 <!-- BLOG-POST-LIST:END -->
