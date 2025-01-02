@@ -14,6 +14,6 @@ Here are my [socials](https://encryptopia.dev/links "My social links").
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Deobfuscation](https://blog.encryptopia.dev/post/javascript-obfuscation)
-- [Hello, World!](https://blog.encryptopia.dev/post/hello-world)
+- [Hacker Paragraph Reform](https://encryptopia.dev/blog/hacker-paragraph-reform)
+- [Hello, World!](https://encryptopia.dev/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
