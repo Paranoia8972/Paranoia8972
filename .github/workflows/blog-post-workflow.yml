@@ -13,4 +13,4 @@ jobs:
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://encryptopia.dev/feed/rss.xml"
+          feed_list: "https://encryptopia.dev/rss.xml"
