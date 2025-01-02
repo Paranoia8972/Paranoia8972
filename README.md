@@ -7,7 +7,10 @@
 [blog]: https://blog.encryptopia.dev
 [OnThePixel.net]: https://onthepixel.net
 
-![Image](assets/paranoia8972.png)
+<div align="center">
+  <img src="/assets/gh-profile.png#gh-light-mode-only">
+  <img src="/assets/gh-profile-dark.png#gh-dark-mode-only">
+</div>
 
 Here are my [socials](https://encryptopia.dev/links "My social links").
 
